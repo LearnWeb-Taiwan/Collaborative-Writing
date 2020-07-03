@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "shawnlin0201",
+      "name": "ShawnL",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45999699?v=4",
+      "profile": "https://shawnlin0201.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "yehyitung",
+      "name": "yehyitung",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45952431?v=4",
+      "profile": "https://github.com/yehyitung",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Collaborative-Writing",
+  "projectOwner": "LearnWeb-Taiwan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
