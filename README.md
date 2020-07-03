@@ -12,9 +12,7 @@
 ## 共筆筆記
 - [無瑕的程式碼：敏捷軟體開發技巧守則](https://github.com/LearnWeb-Taiwan/Collaborative-Writing/tree/master/%E7%84%A1%E7%91%95%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC%EF%BC%9A%E6%95%8F%E6%8D%B7%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7%E5%AE%88%E5%89%87)
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## 貢獻者
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -28,5 +26,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
