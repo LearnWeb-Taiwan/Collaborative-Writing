@@ -1,6 +1,6 @@
 # Collaborative-Writing
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 紀錄 LearnWeb Taiwan 技術講座、工作坊、讀書會的共筆筆記
 
@@ -20,6 +20,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://shawnlin0201.github.io/"><img src="https://avatars0.githubusercontent.com/u/45999699?v=4" width="100px;" alt=""/><br /><sub><b>ShawnL</b></sub></a><br /><a href="#maintenance-shawnlin0201" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/yehyitung"><img src="https://avatars0.githubusercontent.com/u/45952431?v=4" width="100px;" alt=""/><br /><sub><b>yehyitung</b></sub></a><br /><a href="#content-yehyitung" title="Content">🖋</a></td>
   </tr>
 </table>
 
